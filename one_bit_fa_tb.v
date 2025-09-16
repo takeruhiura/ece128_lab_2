@@ -1,15 +1,15 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Lehigh University
+// Engineer: Takeru Hiura and Shenrui Duan
 // 
 // Create Date: 08/19/2024 01:19:05 PM
 // Design Name: 
 // Module Name: multiplexer_tb
-// Project Name: 
+// Project Name: ECE 128 Lab 2
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: This the tenchbench used to test the one bit full adder. 
 // 
 // Dependencies: 
 // 
