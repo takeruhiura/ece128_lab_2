@@ -1,15 +1,15 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Lehigh University
+// Engineer: Takeru Hiura and Shenrui Duan
 // 
 // Create Date: 09/09/2025 02:22:17 PM
 // Design Name: 
 // Module Name: four_bit_fa
-// Project Name: 
+// Project Name: ECE 128 Lab 2
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: This is the implementation of the four-bit full adder using the ripple carry method. 
 // 
 // Dependencies: 
 // 
