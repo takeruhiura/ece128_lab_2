@@ -1,15 +1,15 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Lehigh University
+// Engineer: Takeru Hiura and Shenrui Duan
 // 
 // Create Date: 09/09/2025 01:41:38 PM
 // Design Name: 
 // Module Name: one_bit_fa
-// Project Name: 
+// Project Name: ECE 128 Lab 2
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: This is a module for a one-bit full adder. 
 // 
 // Dependencies: 
 // 
