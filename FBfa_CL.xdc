@@ -1,5 +1,5 @@
 ## This file is a general .xdc for the Basys3 rev B board
-## To use it in a project:
+## To use it in a project: This file was used for the full adder with the carry lookahead method.
 ## - uncomment the lines corresponding to used pins
 ## - rename the used ports (in each line, after get_ports) according to the top level signal names in the project
 
@@ -161,4 +161,5 @@ set_property CFGBVS VCCO [current_design]
 ## SPI configuration mode options for QSPI boot, can be used for all designs
 set_property BITSTREAM.GENERAL.COMPRESS TRUE [current_design]
 set_property BITSTREAM.CONFIG.CONFIGRATE 33 [current_design]
+
 set_property CONFIG_MODE SPIx4 [current_design]
