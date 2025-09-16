@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: Lehigh Univeristy 
+// Company: Lehigh University 
 // Engineer: Takeru Hiura and Shenrui Duan
 // 
 // Create Date: 09/09/2025 03:37:05 PM
